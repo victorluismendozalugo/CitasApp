@@ -1,7 +1,7 @@
 const configService = {
 
-    //apiUrl: 'http://localhost:49870/'
-    apiUrl: 'http://kssystems-001-site2.dtempurl.com/api/'
+    //apiUrl: 'YOUR LOCAL API KEY HERE'
+    apiUrl: 'YOUR API KEY HERE'
 }
 
 export default configService
