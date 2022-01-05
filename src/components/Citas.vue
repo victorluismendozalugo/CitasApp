@@ -328,7 +328,7 @@ export default {
     },
     obtieneFechaMinima() {
       const now = new Date();
-      const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+      const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()+1);
       this.minDate = new Date(today);
     },
     inicializarCampos() {
