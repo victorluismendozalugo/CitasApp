@@ -1,7 +1,7 @@
 const configService = {
 
-    //apiUrl: 'YOUR LOCAL API KEY HERE'
-    apiUrl: 'http://citas.fusionsofts.com/api/'
+    //apiUrl: 'http://localhost:49870/'
+    apiUrl: 'http://citas.fusionsofts.com/servicios/api/'
 }
 
 export default configService
